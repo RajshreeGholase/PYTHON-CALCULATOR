@@ -152,4 +152,5 @@ Handles errors gracefully.
 
 Has a GUI built entirely using tkinter.
 
-       
+
+Getting YOLO achievement 🚀
